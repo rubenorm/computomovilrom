@@ -1,0 +1,2 @@
+# computomovilrom
+Cómputo móvil ROM
